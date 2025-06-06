@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Brendon Collier
 
-<!--
-**brendoncollier/brendoncollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Engineer | 💻 Business Leader | 🧠 Cloud Architect  
+📍 Kansas City Metro
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+**Languages & Frameworks**  
+`Python` `SQL` `Flask` `C#` `VB.NET` 
+
+**Cloud & DevOps**  
+`Docker` `Azure` `Firecracker` `CI/CD` `Git`
+
+**Databases**  
+`PostgreSQL` `DuckDB` `DataBricks` `MSSQL` `SQLlite`
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Industrial Engineering**  
+University of Iowa, 2003
+
+**Masters of Business Administration**  
+University of Missouri - Kansas City, 2013
+
+---
+
+## 📬 Get in Touch
+
+- 💌 Email: [brendon@betterthaneleven.com](mailto:brendon@betterthaneleven.com)  
+- 🔗 LinkedIn: [linkedin.com/in/brendoncollier](https://linkedin.com/in/brendoncollier)  
+- 💻 GitHub: [github.com/brendoncollier](https://github.com/brendoncollier)
